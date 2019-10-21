@@ -3,7 +3,6 @@ Kali-Linux
 ## Descripción
 Aquí trataremos los siguientes apartados:
 1. Descripción de Kali-Linux
-Kali-Linux
 2. SO en el que esta basado
 3. Herramientas de Kali-Linux
 4. Ejemplo 1: Herramienta 1
