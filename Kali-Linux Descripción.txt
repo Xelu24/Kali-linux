@@ -1,0 +1,3 @@
+Kali-Linux 
+Descripción:
+Es un SO basado en debian que contiene unas series de herraientas para la seguridad informatica y la audutoría con unos 600 programas preinstalados.

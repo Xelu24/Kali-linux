@@ -1,2 +1,0 @@
-Kali-Linux 
-Descripción: Es un conjunto de herramientas orientadas a la seguridad informatica y la audutoría, tiene preinstalados 600 programas.
