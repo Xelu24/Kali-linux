@@ -1,0 +1,3 @@
+Zenmap es una versión con interfaz gráfica basado en Nmap(solo comandos), este programa permite ver los hosts de la red, comprobando quien está conectado y que equipos estan conectados.
+Este programa es libre, siendo creado inicialmente para linux pero siendo multiplataforma después. Las funciones de este programa se pueden aumentar con scripts para tener servicios de 
+detección más avanzados, detección de vulnerabilidades y otras aplicaciones.
