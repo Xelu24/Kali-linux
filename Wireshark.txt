@@ -1,0 +1,3 @@
+Wireshark
+Es un programa que se basa en analizar paquetes de la red, este programa te la posibilidad de analizarlos, abrirlos y ver con detalle que significa cada paquete.
+Este programa tiene una interfaz pero también tiene una versión que basada en texto llamada tshark, es un software libre y se puede ejecutar en SO Unix y compatibles.
